@@ -1,0 +1,30 @@
+body {
+    background-color: #FF9500;
+    font-family: Gotham Rounded Light;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    font-family: Gotham Rounded;
+    color: #9100FF;
+    text-align: center;
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  li,
+  a {
+    text-decoration: none;
+    color: white;  
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
